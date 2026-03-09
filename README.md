@@ -2,8 +2,7 @@
  
 Es una aplicación de escritorio desarrollada en Java que implementa una calculadora básica con una interfaz gráfica intuitiva. La aplicación está diseñada para realizar operaciones matemáticas fundamentales de manera rápida y sencilla.
 
-======================================================================================================================
-Capturas
+# Capturas
 
 Pantalla Inicio
 <img width="806" height="607" alt="A1" src="https://github.com/user-attachments/assets/26492670-22f1-45dc-bcb8-616b105ee18d" />
@@ -18,9 +17,7 @@ Modo Oscuro
 <img width="800" height="603" alt="A4" src="https://github.com/user-attachments/assets/e1012dd0-585d-47ea-b5b7-3c4e6672c684" />
 <img width="899" height="805" alt="A5" src="https://github.com/user-attachments/assets/76f141fe-1760-425d-beac-b0536e4e87f1" />
 
-======================================================================================================================
-
-Características
+# Características
 
 Interfaz gráfica desarrollada con Java Swing
 
@@ -62,9 +59,7 @@ o Descargar el .deb - solo instalar desde la terminal
 
 sudo dpkg -i appcalculator_1.0_amd64.deb
 
-======================================================================================================================
-
-Objetivo del proyecto
+# Objetivo del proyecto
 
 Este proyecto fue desarrollado como práctica para el aprendizaje del desarrollo de aplicaciones de escritorio en Java, enfocándose en la creación de interfaces gráficas, manejo de eventos y lógica de operaciones matemáticas.
 
