@@ -3,19 +3,27 @@
 Es una aplicación de escritorio desarrollada en Java que implementa una calculadora básica con una interfaz gráfica intuitiva. La aplicación está diseñada para realizar operaciones matemáticas fundamentales de manera rápida y sencilla.
 
 # Capturas
+<br>
 
-Pantalla Inicio
-<img width="806" height="607" alt="A1" src="https://github.com/user-attachments/assets/26492670-22f1-45dc-bcb8-616b105ee18d" />
+# Pantalla Inicio
+<br>
+<img width="799" height="593" alt="Captura desde 2026-03-11 21-15-31" src="https://github.com/user-attachments/assets/f23606da-b953-4204-b41a-0e9b00eb87b1" />
 
-Operaciones
-<img width="1025" height="769" alt="A2" src="https://github.com/user-attachments/assets/da469877-b118-408a-905f-f978c7cba522" />
+# Operaciones
+<br>
+<img width="1016" height="762" alt="Captura desde 2026-03-11 21-16-01" src="https://github.com/user-attachments/assets/81f84b09-7b6b-4f25-bad2-69b04d9ca03f" />
 
-Ayuda
-<img width="904" height="807" alt="A3" src="https://github.com/user-attachments/assets/d50f7cb5-4e6e-431c-8a81-e40cb6bddb29" />
+# Ayuda
+<br>
+<img width="891" height="779" alt="Captura desde 2026-03-11 21-16-18" src="https://github.com/user-attachments/assets/c8bc9d01-0aa0-4712-a155-23c0eea395ae" />
 
-Modo Oscuro
-<img width="800" height="603" alt="A4" src="https://github.com/user-attachments/assets/e1012dd0-585d-47ea-b5b7-3c4e6672c684" />
-<img width="899" height="805" alt="A5" src="https://github.com/user-attachments/assets/76f141fe-1760-425d-beac-b0536e4e87f1" />
+# Modo Oscuro
+<br>
+<img width="793" height="589" alt="Captura desde 2026-03-11 21-16-37" src="https://github.com/user-attachments/assets/30eaab02-1f68-4202-b50c-a2d354ac7494" />
+<br>
+<img width="900" height="787" alt="Captura desde 2026-03-11 21-16-53" src="https://github.com/user-attachments/assets/6b61a718-1afd-4361-b34e-b6a597522018" />
+<br>
+
 
 # Características
 
