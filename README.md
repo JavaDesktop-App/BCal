@@ -30,38 +30,28 @@ Interfaz gráfica desarrollada con Java Swing
 Operaciones básicas:
 
 Suma
-
 Resta
-
 Multiplicación
-
 División
-
 Potencia
-
 Porcentaje
 
+<br>
 Diseño simple y fácil de usar
-
 Aplicación ligera para uso cotidiano
 
-Tecnologías utilizadas
+# Tecnologías utilizadas
 
-Java
+Java y Swing
 
-Java Swing
-
-Ejecución
+# Ejecución
 
 Para ejecutar la aplicación:
 
 Descarga el archivo .jar
 
 Ejecuta el siguiente comando:
-
-java -jar AppCalculator.jar
-
-o Descargar el .deb - solo instalar desde la terminal
+java -jar AppCalculator.jar o Descargar el .deb - solo instalar desde la terminal
 
 sudo dpkg -i appcalculator_1.0_amd64.deb
 
@@ -69,6 +59,6 @@ sudo dpkg -i appcalculator_1.0_amd64.deb
 
 Este proyecto fue desarrollado como práctica para el aprendizaje del desarrollo de aplicaciones de escritorio en Java, enfocándose en la creación de interfaces gráficas, manejo de eventos y lógica de operaciones matemáticas.
 
-Licencia
+# Licencia
 
 Uso personal o Empresarial
