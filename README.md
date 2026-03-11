@@ -21,8 +21,6 @@ Es una aplicación de escritorio desarrollada en Java que implementa una calcula
 <br>
 <img width="793" height="589" alt="Captura desde 2026-03-11 21-16-37" src="https://github.com/user-attachments/assets/30eaab02-1f68-4202-b50c-a2d354ac7494" />
 <br>
-<img width="900" height="787" alt="Captura desde 2026-03-11 21-16-53" src="https://github.com/user-attachments/assets/6b61a718-1afd-4361-b34e-b6a597522018" />
-<br>
 
 
 # Características
